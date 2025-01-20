@@ -4,7 +4,7 @@
 
 <b> PowerShell</b>
 
- - [Active Directory Home Lab](https://github.com/joshmadakor1/AD_PS)
+ - [Active Directory Home Lab]()
 
 <h2> 🎓 Certifications 📜 </h2>
 
