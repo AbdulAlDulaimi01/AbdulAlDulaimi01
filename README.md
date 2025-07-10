@@ -2,6 +2,10 @@
 
 <h2>🖥️ Information Technology Projects 🖥 </h2>
 
+<b>☁️ Cloud & AWS Projects ☁️</b>
+
+ - [Cloud Monitoring & Alert Response Demo](https://github.com/AbdulAlDulaimi01/cloud-monitoring-alerts-demo)
+
 <b> PowerShell</b>
 
  - [Active Directory Home Lab]()
