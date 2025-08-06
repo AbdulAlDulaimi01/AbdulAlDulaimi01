@@ -2,6 +2,10 @@
 
 <h2>🖥️ Information Technology Projects 🖥 </h2>
 
+<b>🛜 Networking projects 🛜</b>
+
+ - [Basic vlan project](https://github.com/AbdulAlDulaimi01/basic-vlan-lab)
+
 <b>☁️ Cloud & AWS Projects ☁️</b>
 
  - [Cloud Monitoring & Alert Response Demo](https://github.com/AbdulAlDulaimi01/cloud-monitoring-alerts-demo)
