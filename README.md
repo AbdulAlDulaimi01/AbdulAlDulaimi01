@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abdul! I'm an <a href="https://www.linkedin.com/in/abdul-al-dulaimi">IT Support Analyst</a></h1>
+<h1>Hi, I'm Abdul! I'm an <a href="https://www.linkedin.com/in/abdul-al-dulaimi">IT Support Technician</a></h1>
 
 <h2>🖥️ Information Technology Projects 🖥 </h2>
 
