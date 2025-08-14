@@ -16,6 +16,7 @@
 
 <h2> 🎓 Certifications 📜 </h2>
 
+  - [Cisco Certified Network Associate (CCNA)](https://www.credly.com/badges/57574a39-f7bd-46bc-8fe2-2b601103231c/public_url)
   - [CompTIA A+](https://www.credly.com/badges/0c865f5b-7c09-4ada-80f1-32b767864be9/linked_in_profile)
   - [Google IT Support Professional Certificate](https://www.credly.com/badges/0a29b3de-e2e0-417f-b6a4-256d4ee9cf75/linked_in_profile)
 
