@@ -4,7 +4,7 @@
 
 <b>🛜 Networking projects 🛜</b>
 
- - [ccna-packet-tracer-lab](https://github.com/AbdulAlDulaimi01/ccna-packet-tracer-lab/)
+ - [Small business project](https://github.com/AbdulAlDulaimi01/ccna-packet-tracer-lab/)
  - [Basic vlan project](https://github.com/AbdulAlDulaimi01/basic-vlan-lab)
 
 <b>☁️ Cloud & AWS Projects ☁️</b>
